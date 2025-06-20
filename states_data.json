@@ -1,0 +1,1212 @@
+{
+  "Andaman and Nicobar Islands": {
+  "capital": "Port Blair",
+  "cities": [
+    "Port Blair", "Mayabunder", "Car Nicobar", "Havelock Island", "Neil Island"
+  ],
+  "tourist_spots": [
+    "Cellular Jail", "Radhanagar Beach", "Ross Island",
+    "Baratang Limestone Caves", "Chidiya Tapu", "Mount Harriet"
+  ],
+  "weather": "Tropical; warm and humid year-round",
+  "season": "October to May",
+  "food": "Seafood (crabs, fish curry), coconut-based dishes",
+  "culture": "Blend of tribal, Bengali, and mainland Indian cultures",
+  "history": "Colonial-era penal colony; indigenous tribal heritage",
+  "festivals": ["Pongal", "Diwali", "Christmas"],
+  "languages": ["Hindi", "English", "Bengali", "Tamil", "Nicobarese"],
+  "transport": {
+    "airport": "Veer Savarkar International Airport (Port Blair)",
+    "ferry": ["Port Blair–Havelock", "Neil Island–Port Blair"],
+    "roads": ["NH 4 on South Andaman Island"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Dugongs", "Saltwater crocodiles", "Andaman wild pigs"],
+    "common_plants": ["Mangroves", "Coconut palms", "Rainforest species"]
+  },
+  "traditional_dress": {
+    "tribal": "Tribal attire vary among Great Andamanese, Nicobarese"
+  },
+  "handicrafts": ["Shell crafts", "Hand-woven bamboo baskets"],
+  "unesco_or_fame": "Rich coral reefs; cellular jail national memorial",
+  "did_you_know": [
+    "Home to indigenous tribes like Jarawa and Sentinelese.",
+    "The islands lie in the Alpine-Himalayan seismic belt."
+  ]
+},
+"Chandigarh": {
+  "capital": "Chandigarh",
+  "cities": ["Chandigarh"],
+  "tourist_spots": [
+    "Rock Garden", "Sukhna Lake", "Rose Garden",
+    "Capitol Complex", "Pinjore Gardens"
+  ],
+  "weather": "Subtropical; hot summers, cold winters",
+  "season": "October to March",
+  "food": "Punjabi cuisine, tandoori, chole bhature",
+  "culture": "Modern city with Punjabi and Pahari influences",
+  "history": "Designed by Le Corbusier; joint capital for Punjab-Haryana",
+  "festivals": ["Republic Day", "Lohri", "Baisakhi"],
+  "languages": ["Punjabi", "Hindi", "English"],
+  "transport": {
+    "airport": "Chandigarh International Airport",
+    "railway": ["Chandigarh Railway Station"],
+    "roads": ["NH 5 connects to Delhi and Shimla"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Peacocks", "Squirrels", "Parakeets"],
+    "common_plants": ["Rose varieties", "Sukhna Lake aquatic plants"]
+  },
+  "traditional_dress": {
+    "men": "Kurta-Pajama",
+    "women": "Salwar-kameez"
+  },
+  "handicrafts": ["Woodwork", "Leather goods", "Phulkari embroidery"],
+  "unesco_or_fame": "Iconic modernist architecture by Le Corbusier",
+  "did_you_know": [
+    "Chandigarh is India's first planned city.",
+    "It has one of the highest per capita green cover in India."
+  ]
+},
+"Dadra and Nagar Haveli and Daman & Diu": {
+  "capital": "Daman",
+  "cities": [
+    "Silvassa", "Daman", "Diu"
+  ],
+  "tourist_spots": [
+    "Devka Beach", "Diu Fort", "Jampore Beach",
+    "Hathi Pawlya (Silvassa)", "St. Paul's Church (Diu)"
+  ],
+  "weather": "Tropical; hot and humid, moderate winter",
+  "season": "November to March",
+  "food": "Seafood, Portuguese-influenced curries, bebinca",
+  "culture": "Blend of Gujarati and Portuguese heritage",
+  "history": "Former Portuguese colonies until 1961",
+  "festivals": ["Christmas", "New Year", "Ganesh Chaturthi"],
+  "languages": ["Gujarati", "Hindi", "English", "Konkani"],
+  "transport": {
+    "road": ["NH 48 connects all three regions"],
+    "railway": ["Nearest station: Vapi (for Daman)"],
+    "ferry": ["Daman–Diu coastal ferry services"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Indian palm squirrel", "Monitor lizards", "Sea turtles"],
+    "common_plants": ["Coconut palms", "Cashew"]
+  },
+  "traditional_dress": {
+    "men": "Kurta-Pajama",
+    "women": "Salwar-Kameez, Portuguese-style collars"
+  },
+  "handicrafts": ["Shell crafts", "Terracotta", "Handicrafts"],
+  "unesco_or_fame": "Remains of Portuguese forts and churches",
+  "did_you_know": [
+    "Daman's glass bottle manufacturing is historically famous.",
+    "Silvassa was a hub for timber and trade during Portuguese rule."
+  ]
+},
+"Delhi": {
+  "capital": "New Delhi",
+  "cities": ["New Delhi", "Old Delhi", "Noida", "Gurugram (nearby)"],
+  "tourist_spots": [
+    "Red Fort", "Qutub Minar", "India Gate",
+    "Lotus Temple", "Akshardham", "Humayun’s Tomb"
+  ],
+  "weather": "Extreme; hot summers, cold winters, monsoons",
+  "season": "October to March",
+  "food": "Parathas, Kebabs, Chaat, Butter Chicken",
+  "culture": "Blend of Mughal, Punjabi, Haryanvi, and cosmopolitan traditions",
+  "history": "Seat of multiple empires: Delhi Sultanate, Mughal; capital of Raj and Republic",
+  "festivals": ["Diwali", "Eid", "Republic Day", "Holi"],
+  "languages": ["Hindi", "Punjabi", "Urdu", "English"],
+  "transport": {
+    "airport": "Indira Gandhi International Airport",
+    "metro": ["Delhi Metro network"],
+    "railway": ["New Delhi, Old Delhi, Hazrat Nizamuddin stations"],
+    "roads": ["NH 1, NH 8, NH 2"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Peacocks", "Monkeys", "Parakeets"],
+    "common_plants": ["Neem", "Peepal", "Ashoka trees"]
+  },
+  "traditional_dress": {
+    "men": "Kurta-Pajama",
+    "women": "Salwar-Kameez, Saree"
+  },
+  "handicrafts": ["Brassware", "Leather goods", "Hand-blown glass"],
+  "unesco_or_fame": "Many UNESCO sites: Qutub Minar, Humayun’s Tomb, Red Fort",
+  "did_you_know": [
+    "The Delhi Metro began in 2002 and is one of Asia’s largest.",
+    "Delhi has more monuments than any other city in India."
+  ]
+},
+"Lakshadweep": {
+  "capital": "Kavaratti",
+  "cities": ["Kavaratti", "Agatti", "Amini", "Minicoy", "Kalpeni"],
+  "tourist_spots": [
+    "Agatti Island", "Kavaratti Beach", "Bangaram Atoll",
+    "Minicoy Lighthouse", "Marine Aquarium", "Kalpeni Island"
+  ],
+  "weather": "Tropical; humid and warm, consistent temperatures",
+  "season": "October to March",
+  "food": "Tuna dishes, coconut-based curries, rice and seafood",
+  "culture": "Islamic traditions mixed with South Indian coastal lifestyle",
+  "history": "Ruled by local chieftains, later by Tipu Sultan and British",
+  "festivals": ["Eid-ul-Fitr", "Eid-ul-Adha", "Milad-un-Nabi"],
+  "languages": ["Malayalam", "Jeseri", "Dweep Bhasha", "English"],
+  "transport": {
+    "airport": "Agatti Airport",
+    "ferry": ["Ships connect Kavaratti, Agatti, and other islands"],
+    "highways": ["Limited internal road networks on islands"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Sea turtles", "Reef fish", "Crabs"],
+    "common_plants": ["Coconut trees", "Screw pines", "Mangroves"]
+  },
+  "traditional_dress": {
+    "men": "Mundu with shirt or kurta",
+    "women": "Burqa or salwar kameez"
+  },
+  "handicrafts": ["Coir products", "Shell craft", "Coconut products"],
+  "unesco_or_fame": "Known for coral atolls and marine biodiversity",
+  "did_you_know": [
+    "Lakshadweep is the smallest Union Territory of India.",
+    "It consists of 36 islands, but only 10 are inhabited."
+  ]
+},
+"Puducherry": {
+  "capital": "Puducherry",
+  "cities": ["Puducherry", "Karaikal", "Yanam", "Mahe"],
+  "tourist_spots": [
+    "Promenade Beach", "Auroville", "Sri Aurobindo Ashram",
+    "French War Memorial", "Paradise Beach", "Botanical Garden"
+  ],
+  "weather": "Tropical wet and dry; hot summers, rainy monsoons",
+  "season": "October to March",
+  "food": "Creole cuisine, French baguettes, dosa, seafood",
+  "culture": "Blend of Tamil, Telugu, French colonial influence",
+  "history": "French colony until 1954; retains distinct French architecture",
+  "festivals": ["Bastille Day", "Pongal", "Diwali", "Christmas"],
+  "languages": ["Tamil", "Telugu", "Malayalam", "French", "English"],
+  "transport": {
+    "airport": "Puducherry Airport",
+    "railway": ["Puducherry Railway Station"],
+    "roads": ["NH 32, NH 332"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Parakeets", "Monkeys", "Snakes"],
+    "common_plants": ["Neem", "Tamarind", "Bougainvillea"]
+  },
+  "traditional_dress": {
+    "men": "Veshti and shirt",
+    "women": "Saree or Salwar Kameez"
+  },
+  "handicrafts": ["Leather goods", "Handmade paper", "Terracotta items"],
+  "unesco_or_fame": "French Quarter, spiritual Auroville attracts global tourists",
+  "did_you_know": [
+    "Puducherry was under French rule for nearly 300 years.",
+    "Auroville is an international township with no religion or currency."
+  ]
+},
+"Jammu and Kashmir": {
+  "capital": "Srinagar (summer), Jammu (winter)",
+  "cities": ["Srinagar", "Jammu", "Anantnag", "Baramulla", "Udhampur"],
+  "tourist_spots": [
+    "Dal Lake", "Gulmarg", "Pahalgam", "Vaishno Devi Temple",
+    "Sonamarg", "Mughal Gardens", "Patnitop", "Amarnath Cave"
+  ],
+  "weather": "Alpine to subtropical; snowy winters in Kashmir, mild in Jammu",
+  "season": "April to October (Kashmir), October to March (Jammu)",
+  "food": "Rogan Josh, Dum Aloo, Wazwan cuisine, Modur Pulao",
+  "culture": "Blend of Hindu, Muslim, Buddhist traditions; Sufi music",
+  "history": "Princely state; disputed region; reorganized in 2019",
+  "festivals": ["Eid", "Holi", "Navratri", "Baisakhi", "Lohri"],
+  "languages": ["Urdu", "Dogri", "Kashmiri", "Hindi", "English"],
+  "transport": {
+    "airport": "Srinagar & Jammu Airports",
+    "railway": ["Udhampur", "Jammu Tawi"],
+    "roads": ["NH 44, NH 1D (Srinagar-Leh highway)"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Hangul deer", "Snow leopard", "Brown bear"],
+    "common_plants": ["Chinar trees", "Saffron", "Pine"]
+  },
+  "traditional_dress": {
+    "men": "Pheran with skull cap",
+    "women": "Salwar with Pheran or Taranga"
+  },
+  "handicrafts": ["Pashmina shawls", "Papier-mâché", "Kashmiri carpets"],
+  "unesco_or_fame": "Dal Lake, Amarnath Yatra",
+  "did_you_know": [
+    "Srinagar is known as the 'Venice of the East'.",
+    "The Mughal Gardens are inspired by Persian designs."
+  ]
+},
+"Ladakh": {
+  "capital": "Leh",
+  "cities": ["Leh", "Kargil", "Nubra", "Diskit", "Padum"],
+  "tourist_spots": [
+    "Pangong Lake", "Leh Palace", "Nubra Valley", "Zanskar Valley",
+    "Tso Moriri Lake", "Magnetic Hill", "Khardung La Pass"
+  ],
+  "weather": "Cold desert; extreme winters, pleasant summers",
+  "season": "May to September",
+  "food": "Thukpa, Momos, Skyu, Butter tea",
+  "culture": "Buddhist Tibetan culture; Monasteries and Gompas",
+  "history": "Part of ancient Silk Route; union territory since 2019",
+  "festivals": ["Hemis Festival", "Losar", "Sindhu Darshan"],
+  "languages": ["Ladakhi", "Hindi", "Urdu", "English"],
+  "transport": {
+    "airport": "Kushok Bakula Rimpochee Airport (Leh)",
+    "roads": ["Leh-Manali Highway", "Leh-Srinagar Highway"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Snow leopards", "Yaks", "Tibetan wolves"],
+    "common_plants": ["Willow", "Seabuckthorn", "Alpine herbs"]
+  },
+  "traditional_dress": {
+    "men": "Goucha (woolen robe)",
+    "women": "Perak headgear, woolen dresses"
+  },
+  "handicrafts": ["Thangka paintings", "Woolen rugs", "Silver jewelry"],
+  "unesco_or_fame": "Hemis Monastery, Pangong Lake",
+  "did_you_know": [
+    "Ladakh has one of the highest motorable roads (Khardung La).",
+    "It has more than 250 species of birds despite being a cold desert."
+  ]
+},
+"Andhra Pradesh": {
+  "capital": "Amaravati",
+  "cities": ["Visakhapatnam", "Vijayawada", "Guntur", "Nellore", "Tirupati", "Kurnool"],
+  "tourist_spots": [
+    "Tirupati Balaji Temple", "Araku Valley", "Borra Caves", "Vizag Beach Front",
+    "Belum Caves", "Horsley Hills"
+  ],
+  "weather": "Tropical; hot summers, moderate winters, monsoon rains",
+  "season": "October to March",
+  "food": "Hyderabadi Biryani, Andhra Chili Chicken, Gongura Pachadi",
+  "culture": "Classical Kuchipudi dance, Telugu literature, temple festivals",
+  "history": "Ancient Satavahana kingdom; rich Buddhist and medieval Chola–Vijayanagar influence",
+  "festivals": ["Ugadi", "Sankranti", "Dasara", "Vinayaka Chavithi"],
+  "languages": ["Telugu", "Urdu", "English"],
+  "transport": {
+    "airport": "Visakhapatnam International Airport",
+    "railway": ["Vijayawada Junction", "Guntur Junction"],
+    "roads": ["NH 16 (East Coast Road)", "NH 44"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Peacocks", "Spotted deer", "Crocodiles"],
+    "common_plants": ["Mango orchards", "Teak", "Tamarind"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti and shirt",
+    "women": "Saree (Pochampally, Gadwal)"
+  },
+  "handicrafts": ["Kalamkari paintings", "Lacquerware", "Tirupati dolls"],
+  "unesco_or_fame": "Tirupati temple is one of the most visited pilgrimage centers in the world",
+  "did_you_know": [
+    "Andhra Pradesh is the largest producer of rice in India.",
+    "Tirupati temple wealth and footfall historically rival many world-famous pilgrimage centers."
+  ]
+},
+"Arunachal Pradesh": {
+  "capital": "Itanagar",
+  "cities": ["Itanagar", "Tawang", "Pasighat", "Ziro", "Bomdila"],
+  "tourist_spots": [
+    "Tawang Monastery", "Ziro Valley", "Namdapha National Park",
+    "Itanagar Wildlife Sanctuary", "Sela Pass"
+  ],
+  "weather": "Sub-tropical to alpine; cool winters, heavy monsoons",
+  "season": "October to April",
+  "food": "Thukpa, Zan, Thali rice, local bamboo shoots",
+  "culture": "Tribal culture of Apatani, Nyishi, Adi, Monpa; folk dances and festivals",
+  "history": "Part of the Silk Route; became state in 1987",
+  "festivals": ["Losar", "Nyokum", "Solung", "Losar"],
+  "languages": ["English", "Hindi", "Apatani", "Nyishi"],
+  "transport": {
+    "airport": "Naharlagun Airport",
+    "roads": ["NH 13 (Trans-Arunachal Highway)"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Clouded leopard", "Red panda", "Mishmi takin"],
+    "common_plants": ["Bamboo", "Rhododendron", "Cedar"]
+  },
+  "traditional_dress": {
+    "men": "Ghato", 
+    "women": "Gale – colorful skirts and bamboo hats"
+  },
+  "handicrafts": ["Weaving (Nishi shawls)", "Cane and bamboo crafts"],
+  "unesco_or_fame": "Tawang Monastery is second-largest Buddhist monastery in Asia",
+  "did_you_know": [
+    "Arunachal Pradesh borders Bhutan, China, and Myanmar.",
+    "Ziro Valley hosts a famous annual music festival in pine forests."
+  ]
+},
+"Assam": {
+  "capital": "Dispur",
+  "cities": ["Guwahati", "Jorhat", "Dibrugarh", "Silchar", "Tezpur", "Tinsukia"],
+  "tourist_spots": [
+    "Kaziranga National Park", "Majuli Island", "Kamakhya Temple",
+    "Manas National Park", "Sivasagar Ahom monuments"
+  ],
+  "weather": "Humid subtropical; heavy monsoon rains",
+  "season": "October to April",
+  "food": "Masor Tenga, Pitha, Assam tea",
+  "culture": "Bihu festival, silk production (Muga, Eri), Ahom heritage",
+  "history": "600+ years of Ahom dynasty; major tea plantation history",
+  "festivals": ["Bihu", "Jonbeel Mela", "Baishagu"],
+  "languages": ["Assamese", "Bengali", "Bodo", "Hindi"],
+  "transport": {
+    "airport": "Lokpriya Gopinath Bordoloi International Airport (Guwahati)",
+    "railway": ["Guwahati Junction", "Dibrugarh Station"],
+    "roads": ["NH 27", "NH 37"]
+  },
+  "flora_fauna": {
+    "common_animals": ["One-horned rhinoceros", "Wild buffalo", "Elephant"],
+    "common_plants": ["Sal", "Bamboos", "Teak"]
+  },
+  "traditional_dress": {
+    "men": "Mekhela with scarf",
+    "women": "Mekhela Chador"
+  },
+  "handicrafts": ["Bell-metal art", "Silk weaving", "Handloom items"],
+  "unesco_or_fame": "Majuli is the largest river island and world’s largest freshwater island",
+  "did_you_know": [
+    "Assam produces 50% of India’s tea.",
+    "Kaziranga protects over two-thirds of world's one-horned rhinoceros."
+  ]
+},
+"Bihar": {
+  "capital": "Patna",
+  "cities": ["Patna", "Gaya", "Nalanda", "Bhagalpur", "Muzaffarpur", "Darbhanga"],
+  "tourist_spots": [
+    "Mahabodhi Temple", "Nalanda University ruins", "Vikramshila", "Barabar Caves"
+  ],
+  "weather": "Humid subtropical; hot summers, monsoon rains",
+  "season": "October to March",
+  "food": "Litti Chokha, Sattu Paratha, Khaja",
+  "culture": "Chhath Puja, Madhubani paintings, Buddhist and Jain traditions",
+  "history": "Center of ancient learning; Maurya empire; Nalanda University",
+  "festivals": ["Chhath", "Sonepur Cattle Fair", "Makhana Mela"],
+  "languages": ["Hindi", "Bhojpuri", "Maithili"],
+  "transport": {
+    "airport": "Jay Prakash Narayan International Airport (Patna)",
+    "railway": ["Patna Junction", "Gaya Junction"],
+    "roads": ["NH 19", "NH 31"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Gangetic dolphin", "Peafowl", "Turtles"],
+    "common_plants": ["Sal", "Mango", "Bamboo"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti-kurta",
+    "women": "Saree"
+  },
+  "handicrafts": ["Madhubani art", "Sikki grass crafts"],
+  "unesco_or_fame": "Mahabodhi Temple (UNESCO World Heritage)",
+  "did_you_know": [
+    "The word 'Bihar' comes from 'Vihara' meaning Buddhist monasteries.",
+    "Nalanda was one of the world’s first residential universities."
+  ]
+},
+"Chhattisgarh": {
+  "capital": "Raipur",
+  "cities": ["Raipur", "Bilaspur", "Durg", "Jagdalpur", "Korba"],
+  "tourist_spots": [
+    "Chitrakote Falls", "Kanger Valley National Park",
+    "Tirathgarh Falls", "Barnawapara Wildlife Sanctuary"
+  ],
+  "weather": "Tropical wet and dry; hot summers, moderate winters",
+  "season": "October to March",
+  "food": "Chana samosa, Faraa, Aamat, Tribal brood dishes",
+  "culture": "Panthi and Raut Nacha dances, tribal festivals",
+  "history": "Rich tribal kingdoms; former part of Madhya Pradesh, gained statehood in 2000",
+  "festivals": ["Bastar Dussehra", "Madai Festival"],
+  "languages": ["Hindi", "Chhattisgarhi"],
+  "transport": {
+    "airport": "Swami Vivekananda Airport (Raipur)",
+    "railway": ["Raipur Junction", "Bilaspur Junction"],
+    "roads": ["NH 53", "NH 43"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Tiger", "Leopard", "Barking deer"],
+    "common_plants": ["Sal", "Teak", "Mahua"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti-kurta",
+    "women": "Saree with tribal embellishments"
+  },
+  "handicrafts": ["Dhokra metalwork", "Tribal wood carvings", "Bamboo crafts"],
+  "unesco_or_fame": "Chitrakote Falls is known as the 'Niagara of India'",
+  "did_you_know": [
+    "Chhattisgarh is India’s highest steel-producing state.",
+    "Many tribes still practice unique forest-based lifestyles."
+  ]
+},
+"Goa": {
+  "capital": "Panaji",
+  "cities": ["Panaji", "Vasco da Gama", "Margao", "Mapusa", "Ponda", "Canacona"],
+  "tourist_spots": [
+    "Calangute Beach", "Basilica of Bom Jesus", "Fort Aguada",
+    "Dudhsagar Falls", "Anjuna Beach", "Chapora Fort"
+  ],
+  "weather": "Tropical monsoon; warm and humid throughout.",
+  "season": "November to February",
+  "food": "Fish Curry Rice, Prawn Balchão, Bebinca, Sorpotel",
+  "culture": "Portuguese heritage, Carnival, Konkani language",
+  "history": "Portuguese colony for over 450 years; joined India in 1961",
+  "festivals": ["Carnival", "Shigmo", "Feast of St. Francis Xavier", "Christmas"],
+  "languages": ["Konkani", "Marathi", "English", "Konkani dialects"],
+  "transport": {
+    "airport": "Dabolim Airport (GOI)",
+    "railway": ["Madgaon Junction", "Vasco da Gama Station"],
+    "roads": ["NH 66 (Mumbai–Goa Highway)"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Indian flying fox", "King cobra", "Beach crabs"],
+    "common_plants": ["Coconut palms", "Cashew trees", "Mangroves"]
+  },
+  "traditional_dress": {
+    "men": "Vesti or fez cap in Catholic communities",
+    "women": "Saree with gold kunbi border"
+  },
+  "handicrafts": ["Azulejos tiles", "Brass artifacts", "Feni (local liquor)"],
+  "unesco_or_fame": "Churches and convents of Goa and the Basilica of Bom Jesus — UNESCO World Heritage",
+  "did_you_know": [
+    "Goa is the smallest state by area in India.",
+    "It produced the world’s youngest football star under 19."
+  ]
+},
+"Gujarat": {
+  "capital": "Gandhinagar",
+  "cities": ["Ahmedabad", "Surat", "Vadodara", "Rajkot", "Bhavnagar", "Jamnagar", "Junagadh"],
+  "tourist_spots": [
+    "Gir National Park", "Somnath Temple", "Rann of Kutch",
+    "Statue of Unity", "Dwarkadhish Temple", "Champaner-Pavagadh"
+  ],
+  "weather": "Tropical monsoon; very hot summers and moderate winters",
+  "season": "October to February",
+  "food": "Dhokla, Khandvi, Undhiyu, Fafda-Jalebi",
+  "culture": "Navratri dance (Garba), handicrafts, folk music",
+  "history": "Home to Indus Valley sites; Mahatma Gandhi’s birthplace",
+  "festivals": ["Navratri", "Uttarayan", "Modhera Dance Festival", "Rann Utsav"],
+  "languages": ["Gujarati", "Hindi", "English"],
+  "transport": {
+    "airport": "Sardar Vallabhbhai Patel International Airport (Ahmedabad)",
+    "railway": ["Ahmedabad Junction", "Vadodara Junction"],
+    "roads": ["NH 48", "NH 27"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Asiatic lion", "Blackbuck", "Desert fox"],
+    "common_plants": ["Khejri tree", "Prosopis", "Date palms"]
+  },
+  "traditional_dress": {
+    "men": "Kediyu, Dhoti, turban",
+    "women": "Chaniya Choli with odhani"
+  },
+  "handicrafts": ["Bandhani tie-dye", "Patola silk", "Kutchi embroidery", "Pottery"],
+  "unesco_or_fame": "Rani ki Vav stepwell — UNESCO World Heritage site",
+  "did_you_know": [
+    "Gujarat has one of the longest coastlines in India.",
+    "Gir National Park is the only habitat of Asiatic lions."
+  ]
+},
+"Haryana": {
+  "capital": "Chandigarh",
+  "cities": ["Gurugram", "Faridabad", "Panipat", "Ambala", "Hisar", "Karnal", "Rohtak", "Yamunanagar"],
+  "tourist_spots": [
+    "Sultanpur Bird Sanctuary", "Kurukshetra", "Pinjore Gardens",
+    "Morni Hills", "Brahma Sarovar"
+  ],
+  "weather": "Tropical monsoon; very hot summers and cool winters",
+  "season": "October to March",
+  "food": "Bajra Khichdi, Bathua Raita, Churma, Hara Dhania Cholia",
+  "culture": "Folk dances (Ghoomar, Phag), wrestling, rural fairs",
+  "history": "Site of Mahabharata’s Kurukshetra battle; rich Vedic heritage",
+  "festivals": ["Vaisakhi", "Teej", "Holi", "Diwali"],
+  "languages": ["Hindi", "Punjabi", "Haryanvi"],
+  "transport": {
+    "airport": "Indira Gandhi International Airport (near Delhi)",
+    "railway": ["Panipat Junction", "Hisar Junction"],
+    "roads": ["NH 44", "NH 152"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Black buck", "Peacock", "Nilgai"],
+    "common_plants": ["Acacia", "Prosopis", "Neem"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti-kurta with turban",
+    "women": "Phulkari dupatta with ghagra-choli"
+  },
+  "handicrafts": ["Phulkari embroidery", "Leatherwork", "Pottery"],
+  "unesco_or_fame": "Pinjore Gardens built by Mughals",
+  "did_you_know": [
+    "Haryana is among India’s wealthiest states in per‑capita GDP.",
+    "It has one of the highest densities of sports stadiums per population."
+  ]
+},
+"Himachal Pradesh": {
+  "capital": "Shimla",
+  "cities": ["Shimla", "Manali", "Dharamshala", "Solan", "Kullu", "Mandi", "Una"],
+  "tourist_spots": [
+    "Manali (Rohtang Pass)", "Shimla Mall Road", "Dharamshala", "McLeod Ganj",
+    "Spiti Valley", "Kasauli", "Chail", "Bhagsu Falls"
+  ],
+  "weather": "Temperate; cold snowy winters, mild summers",
+  "season": "March to June and September to December",
+  "food": "Siddu, Chha Gosht, Trout fish, Dham cuisine",
+  "culture": "Hindu‑Buddhist blend, tribal dances, temples",
+  "history": "Principalities of hill rajas; summer capital of British India",
+  "festivals": ["Dussehra", "Losar", "Baisakhi"],
+  "languages": ["Hindi", "Punjabi", "Pahari"],
+  "transport": {
+    "airport": "Shimla Airport", "railway": ["Kalka‑Shimla Railway (UNESCO)"],
+    "roads": ["NH 5", "NH 7"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Himalayan bear", "Snow leopard", "Musk deer"],
+    "common_plants": ["Pine", "Deodar", "Rhododendron"]
+  },
+  "traditional_dress": {
+    "men": "Chola with cap",
+    "women": "Shalya sarees, colorful caps"
+  },
+  "handicrafts": ["Kullu shawls", "Chamba rumals", "Wood carving"],
+  "unesco_or_fame": "Kalka–Shimla Railway – UNESCO World Heritage",
+  "did_you_know": [
+    "Shimla once served as summer capital of British India.",
+    "Dharamshala is home to the Dalai Lama."
+  ]
+},
+"Jharkhand": {
+  "capital": "Ranchi",
+  "cities": ["Ranchi", "Jamshedpur", "Dhanbad", "Bokaro", "Hazaribagh", "Deoghar"],
+  "tourist_spots": [
+    "Betla National Park", "Deoghar (Baidyanath Temple)", "Dassam Falls",
+    "Jonha Falls", "Ranchi Hill", "Hazaribagh Wildlife Sanctuary"
+  ],
+  "weather": "Tropical wet and dry; hot summers and mild winters",
+  "season": "October to March",
+  "food": "Litti‑Chokha, Dhuska, Malpua",
+  "culture": "Tribal traditions (Santhal, Munda), folk music & dance",
+  "history": "Carved from Bihar in 2000 to support tribal welfare",
+  "festivals": ["Sarhul", "Karma", "Tusu"],  
+  "languages": ["Hindi", "Santhali", "Odia", "Bengali"],
+  "transport": {
+    "airport": "Birsa Munda International Airport (Ranchi)",
+    "railway": ["Ranchi Junction", "Dhanbad Junction"],
+    "roads": ["NH 33", "NH 43"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Elephant", "Tiger", "Leopard"],
+    "common_plants": ["Sal", "Mahua", "Bamboo"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti‑kurta or lungi",
+    "women": "Saree, tribal jewelry"
+  },
+  "handicrafts": ["Dhokra art", "Handloom textiles", "Metal craft"],
+  "unesco_or_fame": "Betla NP – first national park of Jharkhand",
+  "did_you_know": [
+    "Jharkhand contributes significantly to India's steel and mineral output.",
+    "Santhal Hul rebellion originated here in 1855."
+  ]
+},
+"Karnataka": {
+  "capital": "Bengaluru",
+  "cities": ["Bengaluru", "Mysuru", "Mangaluru", "Hubballi", "Belagavi", "Udupi"],
+  "tourist_spots": [
+    "Hampi", "Mysore Palace", "Coorg", "Jog Falls",
+    "Gokarna", "Badami", "Bandipur National Park"
+  ],
+  "weather": "Tropical monsoon; moderate to hot summers, heavy monsoons",
+  "season": "October to March",
+  "food": "Bisi Bele Bath, Mysore Masala Dosa, Ragi Mudde",
+  "culture": "Kannada literature, Yakshagana, Carnatic music",
+  "history": "Ruled by Chalukyas, Hoysalas, Vijayanagara Empire",
+  "festivals": ["Dasara (Mysore)", "Ugadi", "Hampi Utsav"],
+  "languages": ["Kannada", "Tulu", "English", "Konkani"],
+  "transport": {
+    "airport": "Kempegowda International Airport (Bengaluru)",
+    "railway": ["Bengaluru City Junction", "Mysuru Junction"],
+    "roads": ["NH 44", "NH 48"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Indian elephant", "Indian bison", "Tiger"],
+    "common_plants": ["Sandalwood", "Teak", "Rosewood"]
+  },
+  "traditional_dress": {
+    "men": "Mundu or dhoti-kurta",
+    "women": "Saree (Ilkal, Mysore silk)"
+  },
+  "handicrafts": ["Mysore silk", "Wood carving (Rosewood)", "Ganjifa cards"],
+  "unesco_or_fame": "Hampi – UNESCO World Heritage",
+  "did_you_know": [
+    "Bengaluru is known as the Silicon Valley of India.",
+    "Coorg produces over 70% of India’s coffee."
+  ]
+},
+"Kerala": {
+  "capital": "Thiruvananthapuram",
+  "cities": ["Thiruvananthapuram", "Kochi", "Kozhikode", "Thrissur", "Alappuzha", "Munnar"],
+  "tourist_spots": [
+    "Alleppey Backwaters", "Munnar tea gardens", "Fort Kochi",
+    "Wayanad wildlife", "Thekkady (Periyar)", "Varkala Beach"
+  ],
+  "weather": "Tropical wet; high humidity, monsoon seasons",
+  "season": "September to March",
+  "food": "Appam with stew, Kerala Sadya, Malabar Biryani",
+  "culture": "Kathakali, Mohiniyattam, Theyyam, Ayurveda",
+  "history": "Ancient spice trade hub; colonial influences from Portuguese, Dutch",
+  "festivals": ["Onam", "Vishu", "Thrissur Pooram"],
+  "languages": ["Malayalam", "English"],
+  "transport": {
+    "airport": "Trivandrum International Airport",
+    "railway": ["Ernakulam Junction", "Kochi Metro"],
+    "roads": ["NH 66", "NH 544"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Nilgiri tahr", "Indian bison", "Elephant"],
+    "common_plants": ["Coconut palm", "Teak", "Spice trees"]
+  },
+  "traditional_dress": {
+    "men": "Mundu with shirt",
+    "women": "Kasavu saree"
+  },
+  "handicrafts": ["Coir products", "Aranmula mirror", "Kathakali masks"],
+  "unesco_or_fame": "Western Ghats – UNESCO Global Heritage",
+  "did_you_know": [
+    "Kerala has the highest literacy rate in India.",
+    "It produces 70% of India’s rubber."
+  ]
+},
+"Madhya Pradesh": {
+  "capital": "Bhopal",
+  "cities": ["Bhopal", "Indore", "Gwalior", "Jabalpur", "Ujjain", "Sanchi"],
+  "tourist_spots": [
+    "Khajuraho temples", "Kanha & Bandhavgarh", "Sanchi Stupa",
+    "Gwalior Fort", "Bhimbetka rock shelters"
+  ],
+  "weather": "Sub-tropical; hot summers, cool winters, monsoons",
+  "season": "October to March",
+  "food": "Poha-Jalebi, Dal Bafla, Rogan Josh",
+  "culture": "Classical music, tribal Gond art, Malwa festivals",
+  "history": "Historical Buddhist & Hindu kingdoms; central location",
+  "festivals": ["Khajuraho Dance Festival", "Gwalior Trade Fair"],
+  "languages": ["Hindi", "English", "Bundeli", "Malwi"],
+  "transport": {
+    "airport": "Raja Bhoj Airport (Bhopal)",
+    "railway": ["Bhopal Junction", "Habibganj"],
+    "roads": ["NH 46", "NH 47"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Royal Bengal tiger", "Barasingha deer"],
+    "common_plants": ["Teak", "Sal", "Sandalwood"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti-kurta",
+    "women": "Saree (handwoven)"
+  },
+  "handicrafts": ["Batik textiles", "Zardozi embroidery", "Stone carving"],
+  "unesco_or_fame": "Khajuraho temples and Sanchi Stupa – UNESCO sites",
+  "did_you_know": [
+    "MP is India's only state to host UNESCO sites in both cultural and natural categories.",
+    "Bandhavgarh has one of the highest densities of tigers in India."
+  ]
+},
+"Maharashtra": {
+  "capital": "Mumbai",
+  "cities": ["Mumbai", "Pune", "Nagpur", "Nashik", "Aurangabad", "Kolhapur", "Solapur"],
+  "tourist_spots": [
+    "Gateway of India", "Ajanta & Ellora Caves", "Shirdi",
+    "Lonavala–Khandala", "Mahabaleshwar", "Tadoba National Park"
+  ],
+  "weather": "Tropical monsoon; hot summers, coastal rains",
+  "season": "October to February",
+  "food": "Vada Pav, Misal Pav, Puran Poli, Modak",
+  "culture": "Lavani dance, Marathi literature, Ganesh Chaturthi",
+  "history": "Maratha Empire under Shivaji; colonial Bombay presidency",
+  "festivals": ["Ganesh Chaturthi", "Gudi Padwa", "Navaratri"],
+  "languages": ["Marathi", "Hindi", "English"],
+  "transport": {
+    "airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "railway": ["Mumbai CST", "Pune Junction"],
+    "roads": ["NH 48", "NH 66"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Indian leopard", "Nilgai", "Sloth Bear"],
+    "common_plants": ["Deccan thorn scrub", "Mangos", "Coconut palms"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti-kurta or kurta-pajama",
+    "women": "Nauvari saree"
+  },
+  "handicrafts": ["Paithani sarees", "Kolhapuri chappals", "Warli paintings"],
+  "unesco_or_fame": "Ajanta & Ellora caves – UNESCO World Heritage",
+  "did_you_know": [
+    "Mumbai is India's financial capital and home to Bollywood.",
+    "Nashik hosts the Kumbh Mela every 12 years."
+  ]
+},
+"Manipur": {
+  "capital": "Imphal",
+  "cities": ["Imphal", "Bishnupur", "Churachandpur", "Thoubal", "Ukhrul"],
+  "tourist_spots": [
+    "Loktak Lake", "Imphal War Cemetery", "Kangla Fort",
+    "Shirui Peak", "Khonghampat Orchidarium"
+  ],
+  "weather": "Sub-tropical with moderate rainfall",
+  "season": "October to March",
+  "food": "Eromba, Singju, Chamthong, Iromba with fish",
+  "culture": "Manipuri classical dance, polo birthplace, Meitei traditions",
+  "history": "Ancient kingdom; merged with India in 1949",
+  "festivals": ["Yaoshang", "Lai Haraoba", "Cheiraoba"],
+  "languages": ["Meiteilon (Manipuri)", "English", "Hindi"],
+  "transport": {
+    "airport": "Imphal International Airport",
+    "railway": ["Imphal drone rail planned"],
+    "roads": ["NH 2"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Sangai deer", "Hoolock gibbon", "Clouded leopard"],
+    "common_plants": ["Orchids", "Bamboo", "Teak"]
+  },
+  "traditional_dress": {
+    "men": "Paraaktagi",
+    "women": "Phanek and Innaphi"
+  },
+  "handicrafts": ["Khamba Thoibi dance costumes", "Handloom textiles", "Bamboo crafts"],
+  "unesco_or_fame": "Loktak Lake – world’s only floating national park",
+  "did_you_know": [
+    "Manipur is regarded as the birthplace of modern polo.",
+    "Sangai, the state animal, is critically endangered and lives only in Manipur."
+  ]
+},
+"Meghalaya": {
+  "capital": "Shillong",
+  "cities": ["Shillong", "Tura", "Nongpoh", "Jowai", "Baghmara"],
+  "tourist_spots": [
+    "Cherrapunji", "Mawsynram", "Umiam Lake", "Living Root Bridges",
+    "Elephant Falls", "Dawki River"
+  ],
+  "weather": "Pleasant climate; heavy rainfall, cool winters",
+  "season": "October to April",
+  "food": "Jadoh, Dohneiiong, Tungrymbai, Bamboo shoot dishes",
+  "culture": "Khasi, Garo, and Jaintia tribes with matrilineal customs",
+  "history": "Formed in 1972 from Assam; tribal autonomy preserved",
+  "festivals": ["Wangala", "Shad Suk Mynsiem", "Behdeinkhlam"],
+  "languages": ["Khasi", "Garo", "English"],
+  "transport": {
+    "airport": "Shillong Airport (Umroi)",
+    "roads": ["NH 6", "NH 106"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Hoolock gibbons", "Clouded leopards"],
+    "common_plants": ["Orchids", "Bamboo", "Pine trees"]
+  },
+  "traditional_dress": {
+    "men": "Jymphong (Khasi)",
+    "women": "Jainsem (Khasi), Dakmanda (Garo)"
+  },
+  "handicrafts": ["Bamboo crafts", "Cane furniture", "Woven textiles"],
+  "unesco_or_fame": "Living Root Bridges – UNESCO tentative list",
+  "did_you_know": [
+    "Mawsynram is the wettest place on Earth.",
+    "Meghalaya means ‘abode of clouds’."
+  ]
+},
+"Mizoram": {
+  "capital": "Aizawl",
+  "cities": ["Aizawl", "Lunglei", "Champhai", "Serchhip", "Kolasib"],
+  "tourist_spots": [
+    "Phawngpui Hills", "Vantawng Falls", "Reiek Heritage Village",
+    "Tam Dil", "Solomon’s Temple"
+  ],
+  "weather": "Mild and pleasant; heavy monsoon",
+  "season": "October to March",
+  "food": "Bai, Bamboo shoot curry, Chhum Han",
+  "culture": "Mizo tribes, Christian influence, rich folklore",
+  "history": "Became a state in 1987 after insurgency resolution",
+  "festivals": ["Chapchar Kut", "Mim Kut", "Pawl Kut"],
+  "languages": ["Mizo (Lusei)", "English"],
+  "transport": {
+    "airport": "Lengpui Airport (Aizawl)",
+    "roads": ["NH 54"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Barking deer", "Serow", "Wild boar"],
+    "common_plants": ["Bamboo", "Fern", "Orchids"]
+  },
+  "traditional_dress": {
+    "men": "Puandum cloth with jacket",
+    "women": "Puan (traditional woven wrap)"
+  },
+  "handicrafts": ["Bamboo hats", "Woven shawls", "Wood carvings"],
+  "unesco_or_fame": "Phawngpui (Blue Mountain) – highest peak in Mizoram",
+  "did_you_know": [
+    "Mizoram has over 60% forest cover.",
+    "It’s one of India’s most literate states."
+  ]
+},
+"Nagaland": {
+  "capital": "Kohima",
+  "cities": ["Kohima", "Dimapur", "Mokokchung", "Tuensang", "Mon"],
+  "tourist_spots": [
+    "Dzukou Valley", "Hornbill Festival", "Kisama Heritage Village",
+    "Japfu Peak", "Shilloi Lake"
+  ],
+  "weather": "Subtropical highland; pleasant summers, chilly winters",
+  "season": "October to May",
+  "food": "Smoked pork, Bamboo shoot curry, Axone (fermented soy)",
+  "culture": "Home to 16 major tribes with distinct customs",
+  "history": "Formed in 1963 as the 16th Indian state",
+  "festivals": ["Hornbill Festival", "Moatsu", "Sekrenyi"],
+  "languages": ["English", "Nagamese", "Ao", "Angami"],
+  "transport": {
+    "airport": "Dimapur Airport",
+    "roads": ["NH 2", "NH 29"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Clouded leopard", "Himalayan bear"],
+    "common_plants": ["Rhododendrons", "Orchids", "Bamboo"]
+  },
+  "traditional_dress": {
+    "men": "Warrior attire with feathers and beads",
+    "women": "Woven shawls and skirts"
+  },
+  "handicrafts": ["Tribal jewelry", "Beaded accessories", "Wood carvings"],
+  "unesco_or_fame": "Hornbill Festival – ‘Festival of Festivals’",
+  "did_you_know": [
+    "Nagaland is known for its warrior heritage.",
+    "The Hornbill Festival draws global tourists every December."
+  ]
+},
+"Odisha": {
+  "capital": "Bhubaneswar",
+  "cities": ["Bhubaneswar", "Cuttack", "Puri", "Rourkela", "Sambalpur"],
+  "tourist_spots": [
+    "Konark Sun Temple", "Jagannath Temple", "Chilika Lake",
+    "Simlipal National Park", "Udayagiri & Khandagiri Caves"
+  ],
+  "weather": "Tropical wet and dry; hot summers, moderate winters",
+  "season": "October to March",
+  "food": "Dalma, Pakhala Bhata, Rasgulla (originated here)",
+  "culture": "Odissi dance, Sand art, Tribal arts",
+  "history": "Ancient Kalinga kingdom; Ashoka’s Kalinga war",
+  "festivals": ["Rath Yatra", "Durga Puja", "Makar Sankranti"],
+  "languages": ["Odia", "Hindi", "English"],
+  "transport": {
+    "airport": "Biju Patnaik International Airport",
+    "roads": ["NH 16", "NH 55"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Elephants", "Crocodiles", "Olive Ridley turtles"],
+    "common_plants": ["Sal", "Teak", "Casuarina"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti and Kurta",
+    "women": "Sambalpuri and Bomkai sarees"
+  },
+  "handicrafts": ["Pattachitra painting", "Silver filigree", "Applique work"],
+  "unesco_or_fame": "Konark Sun Temple – UNESCO World Heritage",
+  "did_you_know": [
+    "Odisha is home to Asia’s largest brackish water lake (Chilika).",
+    "The first Rath Yatra started over 800 years ago in Puri."
+  ]
+},
+"Punjab": {
+  "capital": "Chandigarh",
+  "cities": ["Ludhiana", "Amritsar", "Jalandhar", "Patiala", "Bathinda"],
+  "tourist_spots": [
+    "Golden Temple", "Wagah Border", "Jallianwala Bagh",
+    "Anandpur Sahib", "Sheesh Mahal (Patiala)"
+  ],
+  "weather": "Extreme summers and winters; monsoon rains",
+  "season": "October to March",
+  "food": "Sarson da Saag, Makki di Roti, Butter Chicken, Lassi",
+  "culture": "Bhangra, Giddha, Sikh traditions, vibrant festivals",
+  "history": "Birthplace of Sikhism; partition of 1947 impacted region",
+  "festivals": ["Baisakhi", "Lohri", "Gurpurab"],
+  "languages": ["Punjabi", "Hindi", "English"],
+  "transport": {
+    "airport": "Sri Guru Ram Dass Jee Airport (Amritsar)",
+    "roads": ["NH 44", "NH 1"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Blackbuck", "Wild boar", "Peacocks"],
+    "common_plants": ["Wheat", "Mustard", "Cotton"]
+  },
+  "traditional_dress": {
+    "men": "Kurta-pajama with turban",
+    "women": "Salwar Kameez with Phulkari dupatta"
+  },
+  "handicrafts": ["Phulkari embroidery", "Juttis", "Woodwork"],
+  "unesco_or_fame": "Golden Temple – spiritual center of Sikhism",
+  "did_you_know": [
+    "Punjab is known as the 'Granary of India'.",
+    "Bhangra, now popular globally, originated here."
+  ]
+},
+"Rajasthan": {
+  "capital": "Jaipur",
+  "cities": ["Jaipur", "Jodhpur", "Udaipur", "Bikaner", "Ajmer"],
+  "tourist_spots": [
+    "Hawa Mahal", "Jaisalmer Fort", "Udaipur Lake Palace",
+    "Amber Fort", "Ranthambore National Park"
+  ],
+  "weather": "Arid and semi-arid; hot summers, cold winters",
+  "season": "October to March",
+  "food": "Dal Baati Churma, Gatte ki Sabzi, Laal Maas",
+  "culture": "Rajputana heritage, vibrant folk music and dance",
+  "history": "Land of Rajput kings; historic forts and palaces",
+  "festivals": ["Desert Festival", "Gangaur", "Teej"],
+  "languages": ["Hindi", "Rajasthani", "English"],
+  "transport": {
+    "airport": "Jaipur International Airport",
+    "roads": ["NH 8", "NH 11", "NH 62"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Tigers", "Camels", "Chinkara"],
+    "common_plants": ["Khejri", "Cactus", "Babool"]
+  },
+  "traditional_dress": {
+    "men": "Angrakha with turbans",
+    "women": "Ghagra-choli with odhni"
+  },
+  "handicrafts": ["Blue pottery", "Bandhani textiles", "Meenakari jewelry"],
+  "unesco_or_fame": "Jaipur – UNESCO World Heritage City",
+  "did_you_know": [
+    "Rajasthan is the largest state in India by area.",
+    "It has the only hill station in the desert – Mount Abu."
+  ]
+},
+"Sikkim": {
+  "capital": "Gangtok",
+  "cities": ["Gangtok", "Namchi", "Pelling", "Mangan", "Geyzing"],
+  "tourist_spots": [
+    "Tsomgo Lake", "Nathula Pass", "Rumtek Monastery",
+    "Yumthang Valley", "Gurudongmar Lake"
+  ],
+  "weather": "Cool temperate; snowfall in higher regions",
+  "season": "March to June, September to December",
+  "food": "Phagshapa, Momos, Gundruk soup, Sel roti",
+  "culture": "Blend of Tibetan, Nepali and Lepcha traditions",
+  "history": "Merged with India in 1975; previously a monarchy",
+  "festivals": ["Losar", "Saga Dawa", "Pang Lhabsol"],
+  "languages": ["Nepali", "Bhutia", "Lepcha", "English"],
+  "transport": {
+    "airport": "Pakyong Airport",
+    "roads": ["NH 10"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Red panda", "Himalayan bear", "Snow leopard"],
+    "common_plants": ["Rhododendrons", "Cardamom", "Bamboo"]
+  },
+  "traditional_dress": {
+    "men": "Bakhu with a belt",
+    "women": "Honju with Bakhu"
+  },
+  "handicrafts": ["Wood carvings", "Thangka painting", "Carpets"],
+  "unesco_or_fame": "Khangchendzonga National Park – UNESCO World Heritage Site",
+  "did_you_know": [
+    "Sikkim is the first fully organic state in India.",
+    "It is home to the world’s third-highest mountain – Kanchenjunga."
+  ]
+},
+"Tamil Nadu": {
+  "capital": "Chennai",
+  "cities": ["Chennai", "Coimbatore", "Madurai", "Salem", "Tiruchirappalli"],
+  "tourist_spots": [
+    "Meenakshi Temple", "Mahabalipuram", "Kodaikanal",
+    "Ooty", "Brihadeeswarar Temple"
+  ],
+  "weather": "Tropical; hot summers and mild winters",
+  "season": "November to March",
+  "food": "Idli, Dosa, Sambar, Chettinad Chicken",
+  "culture": "Classical dance (Bharatanatyam), Carnatic music, Tamil literature",
+  "history": "Ancient Dravidian culture; Chola, Chera, Pandya dynasties",
+  "festivals": ["Pongal", "Tamil New Year", "Karthigai Deepam"],
+  "languages": ["Tamil", "English"],
+  "transport": {
+    "airport": "Chennai International Airport",
+    "roads": ["NH 44", "NH 32", "NH 38"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Elephants", "Blackbuck", "Indian leopard"],
+    "common_plants": ["Neem", "Banyan", "Coconut"]
+  },
+  "traditional_dress": {
+    "men": "Veshti and shirt",
+    "women": "Saree with traditional jewelry"
+  },
+  "handicrafts": ["Tanjore paintings", "Kanchipuram silk", "Bronze idols"],
+  "unesco_or_fame": "Great Living Chola Temples – UNESCO World Heritage",
+  "did_you_know": [
+    "Tamil is one of the world’s oldest living languages.",
+    "Ooty and Kodaikanal are famous hill stations here."
+  ]
+},
+"Telangana": {
+  "capital": "Hyderabad",
+  "cities": ["Hyderabad", "Warangal", "Nizamabad", "Karimnagar", "Khammam"],
+  "tourist_spots": [
+    "Charminar", "Golconda Fort", "Ramoji Film City",
+    "Ramappa Temple", "Bhadrakali Temple"
+  ],
+  "weather": "Tropical; hot summers, moderate winters",
+  "season": "October to March",
+  "food": "Hyderabadi Biryani, Haleem, Pesarattu",
+  "culture": "Blend of Telugu and Deccan Islamic traditions",
+  "history": "Formed in 2014 from Andhra Pradesh; Nizam rule legacy",
+  "festivals": ["Bathukamma", "Bonalu", "Ramzan"],
+  "languages": ["Telugu", "Urdu", "English"],
+  "transport": {
+    "airport": "Rajiv Gandhi International Airport (Hyderabad)",
+    "roads": ["NH 44", "NH 65"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Leopards", "Deer", "Peacocks"],
+    "common_plants": ["Neem", "Teak", "Tamarind"]
+  },
+  "traditional_dress": {
+    "men": "Dhoti and kurta",
+    "women": "Saree, Langavoni"
+  },
+  "handicrafts": ["Bidriware", "Nirmal paintings", "Pochampally sarees"],
+  "unesco_or_fame": "Ramappa Temple – UNESCO World Heritage Site",
+  "did_you_know": [
+    "Hyderabad is known as 'Cyberabad' for its IT hub.",
+    "Ramoji Film City is the world’s largest film studio complex."
+  ]
+},
+"Tripura": {
+  "capital": "Agartala",
+  "cities": ["Agartala", "Udaipur", "Dharmanagar", "Kailasahar", "Ambassa"],
+  "tourist_spots": [
+    "Neermahal Palace", "Ujjayanta Palace", "Unakoti",
+    "Jampui Hills", "Tripura Sundari Temple"
+  ],
+  "weather": "Tropical with high humidity",
+  "season": "November to March",
+  "food": "Mui Borok (fermented fish), Bamboo shoot dishes",
+  "culture": "Influence of Bengali and indigenous tribal traditions",
+  "history": "Once an independent kingdom; joined India in 1949",
+  "festivals": ["Kharchi Puja", "Durga Puja", "Garia Puja"],
+  "languages": ["Bengali", "Kokborok", "English"],
+  "transport": {
+    "airport": "Maharaja Bir Bikram Airport",
+    "roads": ["NH 8"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Bison", "Elephants", "Clouded leopards"],
+    "common_plants": ["Bamboo", "Sal", "Teak"]
+  },
+  "traditional_dress": {
+    "men": "Rignai and Rikutu",
+    "women": "Rignai with Risa"
+  },
+  "handicrafts": ["Bamboo and cane work", "Wood carvings", "Handloom fabrics"],
+  "unesco_or_fame": "Unakoti rock carvings – UNESCO tentative list",
+  "did_you_know": [
+    "Tripura has the second-highest number of tribal groups in India.",
+    "Neermahal is a lake palace built in Mughal-Rajput style."
+  ]
+},
+"Uttar Pradesh": {
+  "capital": "Lucknow",
+  "cities": ["Lucknow", "Varanasi", "Agra", "Kanpur", "Prayagraj"],
+  "tourist_spots": [
+    "Taj Mahal", "Varanasi Ghats", "Fatehpur Sikri",
+    "Ayodhya", "Kumbh Mela (Prayagraj)"
+  ],
+  "weather": "Extreme summers and winters; monsoon rains",
+  "season": "October to March",
+  "food": "Tunde Kabab, Chaat, Peda, Puri-Sabzi",
+  "culture": "Awadhi and Mughlai influence; classical music & dance",
+  "history": "Cradle of ancient Hinduism and Buddhism; Mughal rule",
+  "festivals": ["Diwali", "Holi", "Kumbh Mela"],
+  "languages": ["Hindi", "Urdu", "English"],
+  "transport": {
+    "airport": "Chaudhary Charan Singh Airport (Lucknow)",
+    "roads": ["Yamuna Expressway", "NH 19"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Tigers", "Deer", "Langurs"],
+    "common_plants": ["Peepal", "Neem", "Teak"]
+  },
+  "traditional_dress": {
+    "men": "Kurta-pajama",
+    "women": "Saree or Salwar Kameez"
+  },
+  "handicrafts": ["Chikankari embroidery", "Brassware", "Zardozi work"],
+  "unesco_or_fame": "Taj Mahal – UNESCO World Heritage Site",
+  "did_you_know": [
+    "UP is India’s most populous state.",
+    "Varanasi is among the oldest inhabited cities globally."
+  ]
+},
+"Uttarakhand": {
+  "capital": "Dehradun",
+  "cities": ["Dehradun", "Haridwar", "Nainital", "Mussoorie", "Rishikesh"],
+  "tourist_spots": [
+    "Kedarnath", "Badrinath", "Nainital Lake", "Jim Corbett Park", "Valley of Flowers"
+  ],
+  "weather": "Cool temperate; snowfall in hills",
+  "season": "March to June, September to November",
+  "food": "Kafuli, Aloo ke Gutke, Bal Mithai",
+  "culture": "Garhwali and Kumaoni traditions; spiritual centers",
+  "history": "Formed in 2000 from Uttar Pradesh",
+  "festivals": ["Ganga Dussehra", "Kumbh Mela", "Harela"],
+  "languages": ["Hindi", "Garhwali", "Kumaoni"],
+  "transport": {
+    "airport": "Jolly Grant Airport (Dehradun)",
+    "roads": ["NH 7", "NH 109"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Leopards", "Bears", "Deer"],
+    "common_plants": ["Pine", "Oak", "Rhododendron"]
+  },
+  "traditional_dress": {
+    "men": "Kurta with woolen coat",
+    "women": "Ghagra-choli or Saree with scarf"
+  },
+  "handicrafts": ["Woodwork", "Woolen shawls", "Ringal bamboo items"],
+  "unesco_or_fame": "Valley of Flowers – UNESCO World Heritage Site",
+  "did_you_know": [
+    "Rishikesh is known as the 'Yoga Capital of the World'.",
+    "Jim Corbett is India’s first national park."
+  ]
+},
+"West Bengal": {
+  "capital": "Kolkata",
+  "cities": ["Kolkata", "Darjeeling", "Howrah", "Siliguri", "Asansol"],
+  "tourist_spots": [
+    "Sundarbans", "Victoria Memorial", "Darjeeling Himalayan Railway",
+    "Dakshineswar Temple", "Kalimpong"
+  ],
+  "weather": "Humid subtropical; heavy monsoon",
+  "season": "October to March",
+  "food": "Macher Jhol, Shukto, Rasgulla, Sandesh",
+  "culture": "Rich in literature, art, music; Rabindra Sangeet",
+  "history": "Colonial capital under British; hub of freedom movement",
+  "festivals": ["Durga Puja", "Poila Boishakh", "Saraswati Puja"],
+  "languages": ["Bengali", "Hindi", "English"],
+  "transport": {
+    "airport": "Netaji Subhas Chandra Bose International Airport",
+    "roads": ["NH 2", "NH 34"]
+  },
+  "flora_fauna": {
+    "common_animals": ["Royal Bengal Tiger", "Elephants", "Dolphins"],
+    "common_plants": ["Mangroves", "Bamboo", "Sal"]
+  },
+  "traditional_dress": {
+    "men": "Panjabi with dhoti",
+    "women": "Saree with shakha-pola (bangles)"
+  },
+  "handicrafts": ["Terracotta art", "Kantha embroidery", "Baluchari sarees"],
+  "unesco_or_fame": "Sundarbans – UNESCO World Heritage Site",
+  "did_you_know": [
+    "Kolkata was once the capital of British India.",
+    "The Sundarbans is the world’s largest mangrove forest."
+  ]
+ }
+}
